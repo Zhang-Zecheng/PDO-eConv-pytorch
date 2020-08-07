@@ -1,4 +1,4 @@
-# Pdo-econv-pytorch
+# PDO-eConv-on-Rotated-Mnist-Pytorch
 CV萌新尝试复现PDO-eConvs: Partial Differential Operator Based Equivariant Convolutions  
 警告：这是一个最初的版本，运行又慢，可能有隐藏bug  
 论文链接：https://zhouchenlin.github.io/Publications/2020-ICML-PDO-eConvs.pdf   
